@@ -19,7 +19,7 @@
         </div>
         <div>
           <h1 class="profile_name">
-            <span class="profile_name_firstName">Gerald Boadi Darko</span><br>
+            <span class="profile_name_fullName">Gerald Boadi Darko</span><br>
           </h1>
           <div class="item_title">
             <i class="fas fa-map-marker-alt"></i> Sutherland, Saskatoon |
@@ -104,7 +104,7 @@
 
       <div class="certification">
         <h3 class="title">Soft Skills</h3>
-        <div class="certification_item">
+        <div class="certificationitem">
           <p class="item_preTitle">- Leadership</p><br>
           <p class="item_preTitle">- Attention To Detail</p><br>
           <p class="item_preTitle">- Communication</p>
@@ -127,7 +127,7 @@
 
       <div class="edu">
         <h3 class="title">Education</h3>
-        <div class="edu_item">
+        <div class="edu_list">
           <h4 class="item_title">Saskatchewan Polytechnic</h4>
           <pre><p class="item_preTitle">- Graduate Certificate - Cybersecurity | Aug 2024 - June 2025 </p></pre>
         </div>
